@@ -2,7 +2,7 @@
 
 ## 📌 Overview  
 A **mock keyword research project** to demonstrate my ability to analyze, segment, and recommend keywords for business growth.  
-Case: A coffee brand expanding in **Berlin**, aiming to capture high-intent searches and increase local visibility.  
+ 
 
 ---
 
